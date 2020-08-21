@@ -1,0 +1,26 @@
+<registro>
+    <dato id ="1">
+        <nombre>Angel Daniel</nombre>
+        <apellido>Sagastume Gonzales</apellido>
+        <edad>45</edad>
+        <curso>IPC1</curso>
+    </dato>
+    <dato id ="2">
+        <nombre>Melvin Danilo</nombre>
+        <apellido>Contreras Rivas</apellido>
+        <edad>30</edad>
+        <curso>IPC2</curso>
+    </dato>
+    <dato id ="3">
+        <nombre>Jorge Estuardo</nombre>
+        <apellido>Lancer Marinez</apellido>
+        <edad>45</edad>
+        <curso>Economia</curso>
+    </dato>
+    <dato id ="4">
+        <nombre>Carlos Javier</nombre>
+        <apellido>Ajtun de Leon</apellido>
+        <edad>34</edad>
+        <curso>Lenguajes Formales</curso>
+    </dato>
+</registro>

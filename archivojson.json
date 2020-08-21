@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Noelia Raquel ",
+        "Apellidos": "Yoc Maldonado",
+        "Edad": 25,
+        "Pelicula Favorita": "Lo que el dia le debe a la noche"
+    },{
+        "nombre": "Karla Noemi",
+        "Apellidos": "Gonzales fuente",
+        "Edad": 23,
+        "Pelicula Favorita": "Anne de las tejas verdes"
+    },{
+        "nombre": "Martha Daniela",
+        "Apellidos": "Quintanilla Flores",
+        "Edad": 26,
+        "Pelicula Favorita": "Al otro lado del mundo"
+
+    },{
+        "nombre": "Maricela Moscoso",
+        "Apellidos": "Perez Quiroa",
+        "Edad": 27,
+        "Pelicula Favorita": "El Jardin Secreto"
+    }]
