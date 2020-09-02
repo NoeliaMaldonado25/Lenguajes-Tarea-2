@@ -1,0 +1,32 @@
+body {
+
+    background: darksalmon;
+}
+
+h1{
+    font-size: 175%;
+    line-height: 200%;
+    font-weight: 100%;
+    color:mediumslateblue;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0;
+}
+
+h2{
+    font-size: 175%;
+    line-height: 100%;
+    font-weight: 100%;
+    color:mediumslateblue;
+    text-align: left;
+    text-transform: uppercase;
+    padding: 0;
+}
+
+ol {
+   margin-left: 0;
+   padding-left: 0;
+}
+li {
+   margin-left: 2em;
+}
